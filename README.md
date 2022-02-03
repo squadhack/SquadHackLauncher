@@ -1,0 +1,2 @@
+# SquadHackLauncher
+test
